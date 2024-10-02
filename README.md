@@ -30,6 +30,10 @@ Computer Science is just one area of study within technology. Some related and a
 * [United States Air Force Academy Computer Science](https://www.usafa.edu/academic/computer-science/)
 * [CSRankings - Top Computer Science Schools](https://csrankings.org/#/index?all&us)
 
+## Books
+* [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+    * _The_ book for programming interviews
+
 
 ## What is DevOps?
 DevOps is an overloaded term and is technically not a role but a culture where you are trying to bridge the historical gap between IT operations and software development. For at least part of the history of computer software running businesses, there has been friction between the folks that run the software vs the ones who write it. 
