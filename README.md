@@ -11,15 +11,24 @@ If you're interested in computers or technology, there tend to be many, many opp
 Computer Science is just one area of study within technology. Some related and adjacent fields include:
 
 * Information Technology (IT)
-    * Broad field that applies computer science to real world problems [1]
-* Information Science
+    * Broad field that applies computer science to real world problems
 * Computer Engineering
+    * More on the hardware side - Central Processing Units (CPUs) design, etc.
 * Network Engineering
-    * [University of Colorado Network Engineering](https://catalog.colorado.edu/graduate/colleges-schools/engineering-applied-science/programs-study/computer-science/network-engineering-master-science-msne/)
+    * Think routers, switches, etc - how the internet is able to function
+* Data Science
+* Information Science
+* Artificial Intelligence (AI)
+* Security Engineering/Cybersecurity
+* And many, many more!
 
 ## Links
 * [computerscience.org](https://www.computerscience.org/degrees/)
     * A really good resource showing difference ways to get a Computer Science degree and how to get jobs without a degree, etc...
+* [University of Colorado Computer Science Undergraduate Degrees](https://www.colorado.edu/cs/academics/undergraduate-programs)
+* [Colorado School of Mines Course List with Syllabi](https://cs.mines.edu/catalog/)
+* [United States Air Force Academy Computer Science](https://www.usafa.edu/academic/computer-science/)
+* [CSRankings - Top Computer Science Schools](https://csrankings.org/#/index?all&us)
 
 
 ## What is DevOps?
